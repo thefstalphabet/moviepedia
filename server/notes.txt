@@ -1,0 +1,5 @@
+1. used MVC (models views controllers) model.
+2. Validating user register from joi package.
+3. used bcrypt to hash password when user register.
+4. used json web token when user login
+5. used multer for file storage
