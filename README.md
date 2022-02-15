@@ -4,7 +4,7 @@ An Application used to search Movies, Series and Shows.
 
 ## Application URL
 
-[CLICK ME](http://localhost:3000)
+[Click me to View](http://localhost:3000)
 
 ## Features 
 
@@ -12,17 +12,19 @@ An Application used to search Movies, Series and Shows.
 
 - User Auth with JWT token.
 
-- Private Routess
+- Private Routes.
 
 - You can Search for a Movie.
 
 - You can make your own list of Favorite Movies.
 
-- You can read Details about s perticular Movie.
+- You can read Details about a perticular Movie.
 
-- Responsive Layout
+- Responsive Layout.
 
-- User profile page.
+- User Profile page.
+
+- You can also upload Profile Picture.
 
 ## Project Status
 
@@ -70,4 +72,4 @@ To Visit App in Your Browser:
 
 ## Tools that are used
 
-React, HTML, CSS, Javascript, Redux, Node, Express, MongoDB, JWT, Joi, and Some NPM Packages
+React, HTML, CSS, Javascript, Redux, Node, Express, MongoDB, JWT, JOI, and Some NPM Packages
