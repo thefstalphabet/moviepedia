@@ -71,4 +71,4 @@ To Visit App in Your Browser:
 
 ## Tools that are used
 
-React, HTML, CSS, Javascript, Redux, Node, Express, MongoDB, JWT, Joi, and Some NPM Packages
+React, HTML, CSS, Javascript, Redux, Node, Express, MongoDB, JWT, JOI, and Some NPM Packages
