@@ -4,7 +4,7 @@ An Application used to search Movies, Series and Shows.
 
 ## Application URL
 
-[Click me to View]([https://chat-freely-app.herokuapp.com/dashboard](https://chat-freely-app.herokuapp.com/dashboard))
+[CLICK ME](http://localhost:3000)
 
 ## Features 
 
@@ -12,21 +12,25 @@ An Application used to search Movies, Series and Shows.
 
 - User Auth with JWT token.
 
-- Private Routes.
+- Private Routess
 
-- Single Chat.
+- You can Search for a Movie.
 
-- Group Chat.
+- You can make your own list of Favorite Movies.
 
-- Create, update, delete Group Chat.
+- You can read Details about s perticular Movie.
 
-- Responsive Layout.
+- Responsive Layout
 
-- User and Another Profile modals.
+- User profile page.
 
 ## Project Status
 
 The project is currently in development Stage.
+
+## Project Screen Shots
+
+<!-- Some Screen Shots -->
 
 ## Installation and Setup Instructions
 
@@ -50,4 +54,4 @@ To Visit App in Your Browser:
 
 ## Tools that are used
 
-React, HTML, CSS, Javascript, Node, Express, MongoDB, JWT, Socket.io, and Some NPM Packages
+React, HTML, CSS, Javascript, Redux, Node, Express, MongoDB, JWT, Joi, and Some NPM Packages
